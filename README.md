@@ -1,4 +1,4 @@
-## Sample artifact resources for AWS Pipeline
+## Sample artifact resources for AWS Pipeline.
 
 Sample product artifacts and and sample test cases for WSO2 products. This repository is used as the sample for artifacts repository in WSO2 AWS pipeline..
 
